@@ -72,7 +72,7 @@ section .left {
     display: flex;
     flex-direction: column;
 
-    /*  background: #ffe5e5;*/
+    background: #ffe5e5;
     height: 100%;
     flex: 1;
     text-align: center;
