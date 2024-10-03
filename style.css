@@ -51,6 +51,11 @@ nav {
 /*designing the login btn*/
 ul li input {
     background-color: #e6e6e6;
+    border: none;
+    padding: 5px 5px;
+    border-radius: 50px;
+    width: 100px;
+    padding-left: 40px;
 }
 
 .btn-wrapper button {
